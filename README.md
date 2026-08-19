@@ -6,15 +6,12 @@ Projeto desenvolvido para a atividade prática de **Qualidade de Software**.
 
 Criar uma página simples de login e realizar testes automatizados para verificar se os requisitos foram atendidos.
 
-## Requisitos
+## Matriz de Rastreabilidade
 
-* **REQ-01:** Exibir o título correto.
-* **REQ-02:** Conter botão de login.
-
-## Testes
-
-* **CT-01:** Verificar o título da página.
-* **CT-02:** Verificar se o botão de login existe.
+| ID do Requisito | Descrição do Requisito | ID do Caso de Teste | Status do Teste |
+| --------------- | ---------------------- | ------------------- | --------------- |
+| REQ-01          | Exibir título correto  | CT-01               | Finalizada      |
+| REQ-02          | Conter botão de login  | CT-02               | Finalizada      |
 
 ## Tecnologias
 
@@ -26,4 +23,4 @@ Criar uma página simples de login e realizar testes automatizados para verifica
 
 ## Status
 
-Os testes foram realizados para verificar se os requisitos do projeto foram atendidos.
+Os testes serão realizados para verificar se os requisitos do projeto foram atendidos.
